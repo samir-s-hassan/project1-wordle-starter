@@ -25,7 +25,7 @@ N/A
 
 ## Video Walkthrough
 
-[Video]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+[Video]](https://www.loom.com/share/f3c75ad8c90e4cec89db7133a70934e3?sid=ccbc1595-2017-4714-89e9-ed78ab25bacf) .
 
 ## Notes
 
@@ -38,8 +38,9 @@ Some challenges included
 - Changing the scale of the cell
 - Syntax and general functions
 - Making a launch screen
+- Accidentally made a forked repository with the starter code
 
-Overall, most of my challenges revolved around closures and how to specifically write one. It took me a while to also understand how to set a closure to a word/variable so I can later call it. Another issue with closures were the scope of the closure and the scope of the class I'm writing in. In general, I had issues with the basic syntax as I haven't written much in Swift. Some general functions had to be looked up like the randomize an element out of an array, printing to console, and adding to an array. I had trouble making a launch screen so I did not add that feature.
+Overall, most of my challenges revolved around closures and how to specifically write one. It took me a while to also understand how to set a closure to a word/variable so I can later call it. Another issue with closures were the scope of the closure and the scope of the class I'm writing in. In general, I had issues with the basic syntax as I haven't written much in Swift. Some general functions had to be looked up like the randomize an element out of an array, printing to console, and adding to an array. I had trouble making a launch screen so I did not add that feature. I had accidentally made a forked repository with the starter code which meant I could not make the repository private. To solve this, I simply copy-pasted all the contents from the previous repository into this new one and did one big commit and push.
 
 ## License
 
