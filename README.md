@@ -25,7 +25,7 @@ N/A
 
 ## Video Walkthrough
 
-[Video]](https://www.loom.com/share/f3c75ad8c90e4cec89db7133a70934e3?sid=ccbc1595-2017-4714-89e9-ed78ab25bacf) .
+[Video]]() .
 
 ## Notes
 
