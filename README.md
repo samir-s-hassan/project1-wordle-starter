@@ -25,7 +25,7 @@ N/A
 
 ## Video Walkthrough
 
-[Video]]() .
+[Video] (N/A)
 
 ## Notes
 
