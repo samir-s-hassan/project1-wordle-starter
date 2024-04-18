@@ -23,6 +23,12 @@ The following **additional** features are implemented:
 
 N/A
 
+## How to run
+
+1. Open Xcode
+2. Choose your simulator, it must be a phone e.g. iPhone 13, iPhone 14 Plus, iPhone 15 Pro, etc. 
+3. Build and run the app on Xcode (can use Command + R)
+
 ## Video Walkthrough
 
 [Video] (N/A)
