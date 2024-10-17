@@ -1,4 +1,4 @@
-# Project 1 - Wordle Pt. 1
+# Wordle Pt. 1
 
 Submitted by: Samir Hassan
 
